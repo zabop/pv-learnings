@@ -1,5 +1,15 @@
 Positive azimuth: faces westwards, negative: facing eastward. 0 is facing fully southwards.
 
+Convincingly Geodetic south if:
+
+- panels are facing within 10 arcminute of the Geodetic south
+- absolute value of deviation from Geodetic south is less than 20 times smaller than deviation from EPSG:2154 south
+
+Convincingly EPSG:2154 south if:
+
+- panels are facing within 10 arcminute of the EPSG:2154 south
+- absolute value of deviation from EPSG:2154 south is less than 20 times smaller than deviation from Geodetic south
+
 |     way_id | az_geodetic_south | az_2154_south | convincing_south_choice |
 | ---------: | ----------------: | ------------: | :---------------------- |
 | 1396232705 |          -2.00906 |      0.100285 | EPSG:2154               |
