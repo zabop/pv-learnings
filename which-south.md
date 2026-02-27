@@ -1,6 +1,6 @@
-| Name                                                                                          | Representative panel                         | sdf | 
-| :-------------------------------------------------------------------------------------------- | :------------------------------------------- | --- |
-| [Centrale solaire de Saint-Martial](https://www.openstreetmap.org/relation/12431403)          | https://www.openstreetmap.org/way/1396232705 | E   |
+| Name                                                                                          | Representative panel                         |
+| :-------------------------------------------------------------------------------------------- | :------------------------------------------- |
+| [Centrale solaire de Saint-Martial](https://www.openstreetmap.org/relation/12431403)          | https://www.openstreetmap.org/way/1396232705 |
 | [Centrale solaire de Bors-de- Montmoreau](https://www.openstreetmap.org/way/1078354351)       | https://www.openstreetmap.org/way/1394005696 |
 | [Centrale solaire Urbasolar Nersac](https://www.openstreetmap.org/way/1042799404)             | https://www.openstreetmap.org/way/1393542313 |
 | [Centrale solaire Urbasolar Fléac](https://www.openstreetmap.org/way/1181732450)              | https://www.openstreetmap.org/way/1393551052 |
